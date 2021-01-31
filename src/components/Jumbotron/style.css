@@ -1,0 +1,8 @@
+.jumbotron {
+  clear: 'both' !important;
+  height: 300px !important;
+  text-align: center;
+  color: white;
+  background-color: 'blue';
+  background-size: cover;
+}
