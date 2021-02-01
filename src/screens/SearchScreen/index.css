@@ -7,3 +7,28 @@ body {
   overflow-x: auto;
   flex-wrap: nowrap;
 }
+
+.jumbotron {
+  background-color: black;
+  margin-bottom: 0px;
+}
+
+.jumbotron p {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 4.5em;
+  color: rgb(248, 117, 139);
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2.5em;
+  position: relative;
+  left: 20px;
+  color: rgb(221, 176, 27);
+}
+
+input {
+  font-family: 'Orbitron', sans-serif;
+  position: relative;
+  right: 20px;
+}
