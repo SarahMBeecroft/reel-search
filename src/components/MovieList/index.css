@@ -1,0 +1,10 @@
+.image-container {
+  padding: 3em;
+}
+
+.overlay {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.5em;
+  padding: 1em;
+  color: rgb(221, 176, 27);
+}
